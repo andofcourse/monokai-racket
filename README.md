@@ -13,5 +13,5 @@ or
 Using command line:
 `raco pkg install git://github.com/andofcourse/monokai-racket`
 
-
+Once installed, restart DrRacket, go to Preferences > Colors > monokai
 
