@@ -8,7 +8,7 @@
           (white-on-black-base? . #t)
           (colors
            .
-           ((framework:basic-canvas-background #( 40 40 50))
+           ((framework:basic-canvas-background #( 40 40 49))
             (framework:default-text-color #(250 250 240))
             (framework:paren-match-color #(87 102 126))
             (framework:syntax-color:scheme:comment #(75 120 180))
